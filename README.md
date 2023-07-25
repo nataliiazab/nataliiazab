@@ -9,7 +9,9 @@
 
 ## About Me
 
-I'm Natalie Zablotska—a passionate problem-solver and critical thinker since my childhood days. My insatiable curiosity for technology led me on a thrilling journey into the captivating world of software engineering. From unraveling puzzles to tinkering with gadgets, I've always been drawn to the magic of technology.
+I'm Natalie Zablotska, a Full-Stack Developer with a passion for problem-solving and critical thinking. I've been fascinated by technology since I was a kid, when I would spend hours taking apart and rebuilding gadgets. My curiosity led me to tech fiels, where I get to use my problem-solving skills to build solutions that make people's lives easier.
+
+I'm always looking for new challenges and opportunities to learn, if you think I'd be a good fit for your team, please reach out to me!
 
 ## My Tech Stack
 
@@ -19,17 +21,20 @@ I'm Natalie Zablotska—a passionate problem-solver and critical thinker since m
 - **Tools:** Miro, Figma, Trello, Monday.com, Google Docs, MS Office, Slack, Zoom
 
 ## Things I'm Passionate About
-🏔️ **Hiking:** Nature's embrace and scenic trails have a magnetic pull on me. I love exploring the great outdoors and seeking breathtaking views.
+🏔️ **Hiking:** 
 
-💻 **Coding:** My childhood curiosity naturally led me to coding. I'm constantly hungry for knowledge and eager to dive into exciting tech challenges.
+💻 **Coding:** 
 
-🍽️ **Culinary Exploration:** Just like I love exploring new concepts in coding, I'm always on the lookout for unique tastes and culinary experiences. Trying different cuisines is an adventure in itself!
+🍽️ **Culinary Exploration:** 
 
-✈️ **Traveling:** Exploring diverse cultures and embracing new experiences fuels my wanderlust. Each journey enriches my perspective and fuels my creativity.
+✈️ **Traveling:** 
 
-🎥 **Movies:** I'm a cinephile who appreciates the art of storytelling through cinema. I can watch and discuss good ones for hours!
+🎥 **Movies:** 
 
 ## Let's Connect! :coffee:
-- Find me on [LinkedIn](https://www.linkedin.com/in/nataliia-zablotska/) and let's explore new opportunities together!
-- And of course, you're already on my GitHub profile—feel free to explore my projects and drop a message. Let's collaborate and create something amazing! 🚀
+
+I'm a creative problem-solver who loves to learn and explore. I'm always looking for new challenges and opportunities to make a difference. If you're looking for someone who can think outside the box and get things done, I'm your person!
+
+- Find me on [LinkedIn](https://www.linkedin.com/in/nataliia-zablotska/)!
+
 
