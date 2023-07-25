@@ -21,15 +21,15 @@ I'm always looking for new challenges and opportunities to learn, if you think I
 - **Tools:** Miro, Figma, Trello, Monday.com, Google Docs, MS Office, Slack, Zoom
 
 ## Things I'm Passionate About
-🏔️ **Hiking:** 
+🏔️ **Hiking** 
 
-💻 **Coding:** 
+💻 **Coding** 
 
-🍽️ **Culinary Exploration:** 
+🍽️ **Culinary Exploration** 
 
-✈️ **Traveling:** 
+✈️ **Traveling** 
 
-🎥 **Movies:** 
+🎥 **Movies** 
 
 ## Let's Connect! :coffee:
 
