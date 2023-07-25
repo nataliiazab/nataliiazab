@@ -33,7 +33,7 @@ I'm always looking for new challenges and opportunities to learn, if you think I
 
 ## Let's Connect! :coffee:
 
-I'm a creative problem-solver who loves to learn and explore. I'm always looking for new challenges and opportunities to make a difference. If you're looking for someone who can think outside the box and get things done, I'm your person!
+If you're looking for someone who can think outside the box and get things done, I'm your person!
 
 - Find me on [LinkedIn](https://www.linkedin.com/in/nataliia-zablotska/)!
 
