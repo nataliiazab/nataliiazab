@@ -9,7 +9,7 @@
 
 ## About Me
 
-I'm Natalie Zablotska, a Full-Stack Developer with a passion for problem-solving and critical thinking. I've been fascinated by technology since I was a kid, when I would spend hours taking apart and rebuilding gadgets. My curiosity led me to tech fiels, where I get to use my problem-solving skills to build solutions that make people's lives easier.
+I'm Natalie Zablotska, a Full-Stack Developer with a passion for problem-solving and critical thinking. I've been fascinated by technology since I was a kid, when I would spend hours taking apart and rebuilding gadgets. My curiosity led me to the tech field, where I get to use my problem-solving skills to build solutions that make people's lives easier.
 
 I'm always looking for new challenges and opportunities to learn, if you think I'd be a good fit for your team, please reach out to me!
 
