@@ -31,6 +31,8 @@ I'm a quick learner and I'm always up for a challenge. I'm also a team player an
 
 🎥 **Movies** 
 
+🔊 **Tech events**
+
 ## Let's Connect! :coffee:
 
 If you're looking for someone who can think outside the box and get things done, I'm your person!
