@@ -20,7 +20,7 @@ I'm a quick learner and I'm always up for a challenge. I'm also a team player an
 - **Version Control:** Git/GitHub
 - **Tools:** Miro, Figma, Trello, Monday.com, Google Docs, MS Office, Slack, Zoom
 
-## Things I'm Passionate About
+## My True Passions
 🏔️ **Hiking** 
 
 💻 **Coding** 
