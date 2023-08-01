@@ -1,4 +1,4 @@
-# Hey there! 👋
+# Natalie Zablotska 
 
 ![Hello world](https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png)
 
