@@ -33,7 +33,6 @@ I'm a quick learner and I'm always up for a challenge. I'm also a team player an
 - **Frontend:** JavaScript, React, Next.js, HTML, CSS, Tailwind CSS
 - **Backend:** Node.js, PostgreSQL
 - **Version Control:** Git/GitHub
-- **Tools:** Miro, Figma, Trello, Monday.com, Google Docs, MS Office, Slack, Zoom
 
 ## My True Passions
 🏔️ **Hiking** 
