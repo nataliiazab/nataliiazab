@@ -9,12 +9,9 @@
 
 ## About Me
 
-I'm Natalie Zablotska, a Full-Stack Developer with a passion for problem-solving and critical thinking. I've been fascinated by technology since I was a kid, when I would spend hours tinkering with my first computer. My curiosity led me to the tech field, where I get to use my problem-solving skills to create innovative solutions that make people's lives easier.
+I'm Natalie Zablotska, a Full-Stack Developer with a passion for problem-solving and critical thinking. I've been fascinated by technology since I was a kid, when I would spend hours tinkering with my first computer. My curiosity led me to the tech field, where I get to use my problem-solving skills to create innovative solutions that make people's lives easier. If you're looking for a developer who is passionate about their work and who is always looking for ways to improve, I'd be a great fit for your team.
 
-I'm a quick learner and I'm always up for a challenge. I'm also a team player and I'm always willing to help others. If you're looking for a developer who is passionate about their work and who is always looking for ways to improve, I'd be a great fit for your team.
-
-## My Tech Stack
-
+## Tech Stack
 
 <p align="center">
   <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" title="JavaScript" height="40" />
@@ -28,9 +25,7 @@ I'm a quick learner and I'm always up for a challenge. I'm also a team player an
   <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="Visual Studio Code" title="Visual Studio Code" height="40" />
 </p>
 
-
-
-## My True Passions
+## Passions
 🏔️ **Hiking** 
 💻 **Coding** 
 🍽️ **Culinary Exploration** 
