@@ -26,25 +26,16 @@ I'm a quick learner and I'm always up for a challenge. I'm also a team player an
   <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js" title="Node.js" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"  title="PostgreSQL" height="40" />
   <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="Visual Studio Code" title="Visual Studio Code" height="40" />
-
-
 </p>
 
-- **Frontend:** JavaScript, React, Next.js, HTML, CSS, Tailwind CSS
-- **Backend:** Node.js, PostgreSQL
-- **Version Control:** Git/GitHub
+
 
 ## My True Passions
 🏔️ **Hiking** 
-
 💻 **Coding** 
-
 🍽️ **Culinary Exploration** 
-
 ✈️ **Traveling** 
-
 🎥 **Movies** 
-
 🔊 **Tech events**
 
 ## Let's Connect! :coffee:
