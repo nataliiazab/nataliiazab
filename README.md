@@ -60,7 +60,6 @@ I'm Natalie Zablotska, a Full-Stack Developer with a passion for problem-solving
 <div align="center">
 💻 Coding
 🏔️ Hiking
-🍽️ Culinary Exploration
 ✈️ Traveling
 🎥 Movies
 🔊 Tech events
