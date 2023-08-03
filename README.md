@@ -35,7 +35,7 @@ I'm Natalie Zablotska, a Full-Stack Developer with a passion for problem-solving
     </td>
     <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind" title="Tailwind" height="40" /><br />
-      Tailwind CSS
+      Tailwind
     </td>
     <td align="center">
       <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js" title="Node.js" height="40" /><br />
