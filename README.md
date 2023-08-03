@@ -11,17 +11,49 @@ I'm Natalie Zablotska, a Full-Stack Developer with a passion for problem-solving
 
 ## Tech Stack
 
-<p align="center">
-  <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" title="JavaScript" height="40" />
-  <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React.js" title="React.js" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-line.svg" title="Next.js" height="40" />
-  <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML" title="HTML" height="40" />
-  <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS" title="CSS" height="40" />
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg"  alt="Tailwind" title="Tailwind" height="40" />
-  <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js" title="Node.js" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"  title="PostgreSQL" height="40" />
-  <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="Visual Studio Code" title="Visual Studio Code" height="40" />
-</p>
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" title="JavaScript" height="40" /><br />
+      JavaScript
+    </td>
+    <td align="center">
+      <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React.js" title="React.js" height="40" /><br />
+      React.js
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-line.svg" title="Next.js" height="40" /><br />
+      Next.js
+    </td>
+    <td align="center">
+      <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML" title="HTML" height="40" /><br />
+      HTML
+    </td>
+    <td align="center">
+      <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS" title="CSS" height="40" /><br />
+      CSS
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind" title="Tailwind" height="40" /><br />
+      Tailwind CSS
+    </td>
+    <td align="center">
+      <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js" title="Node.js" height="40" /><br />
+      Node.js
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" title="PostgreSQL" height="40" /><br />
+      PostgreSQL
+    </td>
+    <td align="center">
+      <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="Visual Studio Code" title="Visual Studio Code" height="40" /><br />
+      VS Code
+    </td>
+  </tr>
+</table>
+
+
+
 
 ## My Passions
 <div align="center">
