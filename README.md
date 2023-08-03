@@ -42,7 +42,7 @@ I'm Natalie Zablotska, a Full-Stack Developer with a passion for problem-solving
 [gmail-shield]: https://img.shields.io/badge/-Gmail-red.svg?style=for-the-badge&logo=gmail&logoColor=white
 [gmail-url]: mailto:nataliia.zab@gmail.com
 
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-green.svg?style=for-the-badge&logo=linkedin&colorB=555
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-green.svg?style=for-the-badge&logo=linkedin&colorB=blue
 [linkedin-url]: https://www.linkedin.com/in/nataliia-zablotska/
 </div>
 
