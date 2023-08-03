@@ -23,9 +23,9 @@ I'm Natalie Zablotska, a Full-Stack Developer with a passion for problem-solving
   <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="Visual Studio Code" title="Visual Studio Code" height="40" />
 </p>
 
-## Passions
-🏔️ **Hiking** 
+## My Passions
 💻 **Coding** 
+🏔️ **Hiking** 
 🍽️ **Culinary Exploration** 
 ✈️ **Traveling** 
 🎥 **Movies** 
