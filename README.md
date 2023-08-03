@@ -56,7 +56,7 @@ I'm Natalie Zablotska, a Full-Stack Developer with a passion for problem-solving
 
 
 
-## My Passions
+## Interests
 <div align="center">
 💻 Coding
 🏔️ Hiking
