@@ -31,7 +31,7 @@ I'm Natalie Zablotska, a Full-Stack Developer with a passion for problem-solving
 🎥 **Movies** 
 🔊 **Tech events**
 
-## Let's Connect
+## Contact Me At
 <p align="center">
 
 [![LinkedIn][linkedin-shield]][linkedin-url]
