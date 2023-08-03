@@ -33,8 +33,6 @@ I'm Natalie Zablotska, a Full-Stack Developer with a passion for problem-solving
 
 ## Let's Connect! :coffee:
 
-If you're looking for someone who can think outside the box and get things done, I'm your person!
-
-- Find me on [LinkedIn](https://www.linkedin.com/in/nataliia-zablotska/)!
+<a href="https://linkedin.com/in/nataliia-zablotska" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nataliia-zablotska" height="30" width="40" /></a>
 
 
