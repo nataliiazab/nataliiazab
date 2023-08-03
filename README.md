@@ -24,15 +24,17 @@ I'm Natalie Zablotska, a Full-Stack Developer with a passion for problem-solving
 </p>
 
 ## My Passions
-💻 **Coding** 
-🏔️ **Hiking** 
-🍽️ **Culinary Exploration** 
-✈️ **Traveling** 
-🎥 **Movies** 
-🔊 **Tech events**
+<div align="center">
+💻 Coding
+🏔️ Hiking
+🍽️ Culinary Exploration
+✈️ Traveling
+🎥 Movies
+🔊 Tech events
+</div>
 
-## Contact Me At
-<p align="center">
+## Let's Connect!
+<div align="center">
 
 [![LinkedIn][linkedin-shield]][linkedin-url]
 [![Gmail][gmail-shield]][gmail-url]
@@ -42,5 +44,5 @@ I'm Natalie Zablotska, a Full-Stack Developer with a passion for problem-solving
 
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-green.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/nataliia-zablotska/
-</p>
+</div>
 
