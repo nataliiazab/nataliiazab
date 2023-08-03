@@ -1,7 +1,5 @@
 # Hey there👋
 
-![Hello world](https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png)
-
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/nataliiazab/count.svg" />
