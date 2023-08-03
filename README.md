@@ -31,8 +31,16 @@ I'm Natalie Zablotska, a Full-Stack Developer with a passion for problem-solving
 🎥 **Movies** 
 🔊 **Tech events**
 
-## Let's Connect! :coffee:
+## Let's Connect
+<p align="center">
 
-<a href="https://linkedin.com/in/nataliia-zablotska" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nataliia-zablotska" height="30" width="40" /></a>
+[![LinkedIn][linkedin-shield]][linkedin-url]
+[![Gmail][gmail-shield]][gmail-url]
 
+[gmail-shield]: https://img.shields.io/badge/-Gmail-red.svg?style=for-the-badge&logo=gmail&logoColor=white
+[gmail-url]: mailto:nataliia.zab@gmail.com
+
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-green.svg?style=for-the-badge&logo=linkedin&colorB=555
+[linkedin-url]: https://www.linkedin.com/in/nataliia-zablotska/
+</p>
 
