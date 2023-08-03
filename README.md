@@ -49,10 +49,7 @@ I'm Natalie Zablotska, a Full-Stack Developer with a passion for problem-solving
       <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="Visual Studio Code" title="Visual Studio Code" height="40" /><br />
       VS Code
     </td>
-     <td align="center">
-      <img src="https://img.icons8.com/color/48/000000/figma.png" alt="Figma" title="Figma" height="40" /><br />
-      Figma
-    </td>
+  
   </tr>
 </table>
 
