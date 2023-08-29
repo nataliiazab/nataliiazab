@@ -7,7 +7,8 @@
 
 ## About Me
 
-I'm Natalie Zablotska, a Fullstack Developer with a passion for problem-solving and critical thinking. I've been fascinated by technology since I was a kid, when I would spend hours tinkering with my first computer. My curiosity led me to the tech field, where I get to use my problem-solving skills to create innovative solutions that make people's lives easier. If you're looking for a developer who is passionate about their work and who is always looking for ways to improve, I'd be a great fit for your team.
+I'm Natalie, a Fullstack Developer.
+I switched from project management to tech after discovering my passion for programming while delivering cybersecurity projects for the US Department of State. I completed a 500-hour fullstack development bootcamp and I'm now looking for my first role where I can use my skills to create innovative solutions.
 
 🌐 [Check out My Portfolio](https://nataliiazab-portfolio.netlify.app)
 
