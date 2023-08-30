@@ -1,4 +1,4 @@
-# Hey there👋
+# Hey there, I'm Natalie👋
 
 <p align="center"> 
   Visitor count<br>
@@ -7,8 +7,7 @@
 
 ## About Me
 
-I'm Natalie, a Fullstack Developer.
-I switched from project management to tech after discovering my passion for programming while delivering cybersecurity projects for the US Department of State. I completed a 500-hour fullstack development bootcamp and I'm now looking for my first role where I can use my skills to create innovative solutions.
+I switched from project management to tech after discovering my passion for programming while delivering cybersecurity projects funded by the US Department of State. I completed a 500-hour fullstack development bootcamp and I'm now looking for my first role where I can use my skills to create innovative solutions.
 
 🌐 [Check out My Portfolio](https://nataliiazab-portfolio.netlify.app)
 
