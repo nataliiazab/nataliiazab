@@ -1,4 +1,4 @@
-# Hey there, I'm Natalie👋
+# Hey there👋
 
 <p align="center"> 
   Visitor count<br>
@@ -7,7 +7,7 @@
 
 ## About Me
 
-I switched from project management to tech after discovering my passion for programming while delivering cybersecurity projects funded by the US Department of State. I completed a 12-month full stack development training programme and I'm now looking for my first role where I can use my skills to create innovative solutions.
+I switched from project management to tech after discovering my passion for programming while delivering cybersecurity projects funded by the US Department of State. I completed a 12-month full stack development training programme and I'm now looking for my first tech role where I can use my skills to create innovative solutions.
 
 🌐 [Check out My Portfolio](https://nataliiazab-portfolio.netlify.app)
 
