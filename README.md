@@ -48,6 +48,10 @@ I switched from project management to tech after discovering my passion for prog
       PostgreSQL
     </td>
     <td align="center">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Visual Studio Code" title="Python" height="40" /><br />
+      Python 
+    </td>
+    <td align="center">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="Visual Studio Code" title="Visual Studio Code" height="40" /><br />
       VS Code
     </td>
