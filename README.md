@@ -7,7 +7,7 @@
 
 ## About Me
 
-I switched from project management to tech after discovering my passion for programming while delivering cybersecurity projects funded by the US Department of State. I completed a 12-month full stack development bootcamp and I'm now looking for my first tech role where I can use my skills to create innovative solutions.
+I am a Full Stack Developer with a passion for programming. I contributed to four cyber security projects funded by the US Department of State and I also have five years of diverse experience and strong foundation in project management. I am a graduate of a 12-month coding bootcamp and now excited to join a tech company where I can use my skills to create innovative technology solutions.
 
 🌐 [Check out My Portfolio](https://nataliiazab-portfolio.netlify.app)
 
