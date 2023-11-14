@@ -7,7 +7,7 @@
 
 ## About Me
 
-I am a Full Stack Developer with a passion for programming. I contributed to four cyber security projects funded by the US Department of State and I also have five years of diverse experience and strong foundation in project management. I am a graduate of a 12-month coding bootcamp and now excited to join a tech company where I can use my skills to create innovative technology solutions.
+I am a Full Stack Developer with a passion for programming. I have five years of diverse experience and strong foundation in project management, I also managed four cyber security projects funded by the US Department of State. I am a graduate of a 12-month coding bootcamp and now excited to join a tech company where I can use my skills to create innovative technology solutions, learn and grow.
 
 🌐 [Check out My Portfolio](https://nataliiazab-portfolio.netlify.app)
 
