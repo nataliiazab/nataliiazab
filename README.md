@@ -7,7 +7,11 @@
 
 ## About Me
 
-Junior Full Stack Developer with five years of international experience in project management. My passion for programming was sparked when I led four cyber security projects funded by the US Department of State. I was inspired by the transformative power of code, which led me to pursue a 12-month full stack development course at CodeYourFuture to develop technical skills. I am now eager to apply my expertise to develop innovative technology solutions. I enjoy working collaboratively and am seeking a tech company where I can continuously learn, grow, and contribute to meaningful projects.
+**I am a Junior Full Stack Developer with five years of international experience in project management.**
+<p>My passion for programming was sparked when I led four cyber security projects funded by the US Department of State. I was inspired by the transformative power of code, which led me to pursue a 12-month full stack development course at CodeYourFuture to develop technical skills. I am now eager to apply my expertise to develop innovative technology solutions.</p>
+
+<p>I enjoy working collaboratively and am seeking a tech company where I can continuously learn, grow, and contribute to meaningful projects.</p>
+
 
 🌐 [Check out My Portfolio](https://nataliiazab-portfolio.netlify.app)
 
@@ -53,7 +57,8 @@ Junior Full Stack Developer with five years of international experience in proje
 ## Learning and Basic Knowledge
 
 <table align="center">
-  <td align="center">
+  <tr>
+    <td align="center">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" title="Python" height="40" /><br />
       Python 
     </td>
@@ -61,13 +66,16 @@ Junior Full Stack Developer with five years of international experience in proje
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" title="TypeScript" height="40" /><br />
       TypeScript
     </td>
- <td align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg" alt="Jest" title="Jest" height="40" /><br />
-  Jest
-</td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg" alt="Jest" title="Jest" height="40" /><br />
+      Jest
+    </td>
+    <td align="center">
+      <img src="https://assets.vercel.com/image/upload/v1588805858/repositories/vercel/logo.png" alt="Vercel" title="Vercel" height="40" /><br />
+      Vercel
+    </td>
+  </tr>
 </table>
-
-
 
 ## Interests
 <div align="center">
