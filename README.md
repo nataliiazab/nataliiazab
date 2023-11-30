@@ -7,7 +7,7 @@
 
 ## About Me
 
-I am a Junior Full Stack Developer with five years of diverse international experience and strong foundation in project management, I also managed four cyber security projects funded by the US Department of State. I am a graduate of CodeYourFuture and now excited to join a tech company where I can use my skills to create innovative technology solutions, learn and grow.
+Junior Full Stack Developer with five years of international experience in project management. My passion for programming was sparked when I led four cyber security projects funded by the US Department of State. I was inspired by the transformative power of code, which led me to pursue a 12-month full stack development course at CodeYourFuture to develop technical skills. I am now eager to apply my expertise to develop innovative technology solutions. I enjoy working collaboratively and am seeking a tech company where I can continuously learn, grow, and contribute to meaningful projects.
 
 🌐 [Check out My Portfolio](https://nataliiazab-portfolio.netlify.app)
 
