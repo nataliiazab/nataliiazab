@@ -7,7 +7,7 @@
 
 ## About Me
 
-I am a Full Stack Developer with a passion for programming. I have five years of diverse experience and strong foundation in project management, I also managed four cyber security projects funded by the US Department of State. I am a graduate of a 12-month coding bootcamp and now excited to join a tech company where I can use my skills to create innovative technology solutions, learn and grow.
+I am a Junior Full Stack Developer with five years of diverse international experience and strong foundation in project management, I also managed four cyber security projects funded by the US Department of State. I am a graduate of CodeYourFuture and now excited to join a tech company where I can use my skills to create innovative technology solutions, learn and grow.
 
 🌐 [Check out My Portfolio](https://nataliiazab-portfolio.netlify.app)
 
@@ -43,22 +43,29 @@ I am a Full Stack Developer with a passion for programming. I have five years of
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" title="Node.js" height="40" /><br />
       Node.js
     </td>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL" height="40" /><br />
-      PostgreSQL
-    </td>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Visual Studio Code" title="Python" height="40" /><br />
-      Python 
-    </td>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="Visual Studio Code" title="Visual Studio Code" height="40" /><br />
-      VS Code
-    </td>
+<td align="center">
+  <img src="https://img.icons8.com/color/48/000000/sql.png" alt="SQL" title="SQL" height="40" /><br />
+  SQL
+</td>
   </tr>
 </table>
 
+## Learning and Basic Knowledge
 
+<table align="center">
+  <td align="center">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" title="Python" height="40" /><br />
+      Python 
+    </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" title="TypeScript" height="40" /><br />
+      TypeScript
+    </td>
+ <td align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg" alt="Jest" title="Jest" height="40" /><br />
+  Jest
+</td>
+</table>
 
 
 
