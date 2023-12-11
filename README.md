@@ -74,6 +74,10 @@
       <img src="https://assets.vercel.com/image/upload/v1588805858/repositories/vercel/logo.png" alt="Vercel" title="Vercel" height="40" /><br />
       Vercel
     </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" title="Docker" height="40" /><br />
+      Docker
+    </td>
   </tr>
 </table>
 
