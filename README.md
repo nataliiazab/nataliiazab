@@ -54,7 +54,7 @@
   </tr>
 </table>
 
-## Learning and Basic Knowledge
+## Basic Knowledge
 
 <table align="center">
   <tr>
