@@ -40,7 +40,7 @@
       CSS
     </td>
     <td align="center">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind" title="Tailwind" height="40" /><br />
+      <img src="https://simpleicons.org/icons/tailwindcss.svg" alt="Tailwind" title="Tailwind" height="40" /><br />
       Tailwind
     </td>
     <td align="center">
@@ -81,14 +81,6 @@
   </tr>
 </table>
 
-## Interests
-<div align="center">
-💻 Coding
-🏔️ Hiking
-✈️ Traveling
-🎥 Movies
-🔊 Tech events
-</div>
 
 ## Let's Connect!
 <div align="center">
