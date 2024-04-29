@@ -10,8 +10,6 @@
 **I am a Full Stack Developer with five years of international experience in project management.**
 <p>My passion for programming was sparked when I managed four cyber security projects funded by the US Department of State. I was inspired by the transformative power of code, which led me to pursue a 12-month full stack development course at CodeYourFuture to develop technical skills. I am now eager to apply my expertise to develop innovative technology solutions.</p>
 
-<p>I enjoy working collaboratively and am seeking a tech company where I can continuously learn, grow, and contribute to meaningful projects.</p>
-
 
 🌐 [Check out My Portfolio](https://nataliiazab-portfolio.netlify.app)
 
