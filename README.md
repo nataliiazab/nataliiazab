@@ -73,6 +73,10 @@
       Vercel
     </td>
     <td align="center">
+      <img src="https://github.com/devicons/devicon/blob/master/icons/supabase/supabase-original.svg" alt="Supabase" title="Supabase" height="40" /><br />
+      Supabase
+    </td>
+    <td align="center">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" title="Docker" height="40" /><br />
       Docker
     </td>
@@ -84,10 +88,6 @@
 <div align="center">
 
 [![LinkedIn][linkedin-shield]][linkedin-url]
-[![Gmail][gmail-shield]][gmail-url]
-
-[gmail-shield]: https://img.shields.io/badge/-Gmail-red.svg?style=for-the-badge&logo=gmail&logoColor=white
-[gmail-url]: mailto:nataliia.zab@gmail.com
 
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-green.svg?style=for-the-badge&logo=linkedin&colorB=blue
 [linkedin-url]: https://www.linkedin.com/in/nataliia-zablotska/
