@@ -69,7 +69,7 @@
       Jest
     </td>
     <td align="center">
-      <img src="https://assets.vercel.com/image/upload/v1588805858/repositories/vercel/logo.png" alt="Vercel" title="Vercel" height="40" /><br />
+      <img src="https://pipedream.com/s.v0/app_XaLh2x/logo/orig" alt="Vercel" title="Vercel" height="40" /><br />
       Vercel
     </td>
     <td align="center">
