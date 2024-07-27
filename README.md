@@ -69,10 +69,6 @@
       Jest
     </td>
     <td align="center">
-      <img src="https://pipedream.com/s.v0/app_XaLh2x/logo/orig" alt="Vercel" title="Vercel" height="40" /><br />
-      Vercel
-    </td>
-    <td align="center">
       <img src="https://github.com/devicons/devicon/blob/master/icons/supabase/supabase-original.svg" alt="Supabase" title="Supabase" height="40" /><br />
       Supabase
     </td>
