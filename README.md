@@ -7,11 +7,14 @@
 
 ## About Me
 
-<p>Currently work as a Business Applications Developer at St George's, University of London, where I configure and develop SITS - a student information system. </p>
-<p>Volunteer as a Full Stack Developer at CodeYourFuture, a non-profit organisation that teaches coding to refugees and people from disadvantaged backgrounds</p>
+<p>💼 Currently, work as a Business Applications Developer at St George's University of London, developing and maintaining a student information system.</p>
+
+<p>💻 Volunteer as a full-stack developer for nonprofits like Trafalgar Girls and CodeYourFuture. </p>
+
+<p>🎓 Completed a 12-month coding programme and love staying connected with the tech community through events. </p>
 
 
-🌐 [Check out My Portfolio](https://nataliiazab-portfolio.netlify.app)
+🌐 [My Portfolio](https://nataliiazab-portfolio.netlify.app)
 
 ## Tech Stack
 
