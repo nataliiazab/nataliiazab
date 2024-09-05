@@ -9,7 +9,7 @@
 
 <p>💼 Currently, work as a Business Applications Developer at St George's University of London, developing and maintaining a student information system.</p>
 
-<p>💻 Volunteer as a full-stack developer for Trafalgar Girls to build 'Kindly' </p>
+<p>💻 Volunteer as a Full Stack Developer at Trafalgar Girls to build <a href="https://github.com/enBloc-org/kindly">Kindly</a> </p>
 
 <p>🎓 Completed a 12-month coding programme and love staying connected with the tech community through events. </p>
 
