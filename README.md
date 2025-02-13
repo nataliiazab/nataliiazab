@@ -7,11 +7,11 @@
 
 ## About Me
 
-<p>💼 Currently, work as a Business Applications Developer at St George's University of London, developing and maintaining a student information system.</p>
+<p>💼 Currently, work as a Junior Software Engineer at Clear Channel</p>
 
 <p>💻 Volunteer as a Full Stack Developer at Trafalgar Girls to build <a href="https://github.com/enBloc-org/kindly">Kindly</a> </p>
 
-<p>🎓 Completed a 12-month coding programme and love staying connected with the tech community through events. </p>
+<p>🎓 Completed a 12-month full stack development programme at CodeYourFuture </p>
 
 
 🌐 [My Portfolio](https://nataliiazab-portfolio.netlify.app)
@@ -44,10 +44,6 @@
       <img src="https://simpleicons.org/icons/tailwindcss.svg" alt="Tailwind" title="Tailwind" height="40" /><br />
       Tailwind
     </td>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" title="Node.js" height="40" /><br />
-      Node.js
-    </td>
 <td align="center">
   <img src="https://img.icons8.com/color/48/000000/sql.png" alt="SQL" title="SQL" height="40" /><br />
   SQL
@@ -59,9 +55,9 @@
 
 <table align="center">
   <tr>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" title="Python" height="40" /><br />
-      Python 
+      <td align="center">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" title="Node.js" height="40" /><br />
+      Node.js
     </td>
     <td align="center">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" title="TypeScript" height="40" /><br />
@@ -83,7 +79,7 @@
 </table>
 
 
-## Let's Connect!
+## Happy to connect! :) 
 <div align="center">
 
 [![LinkedIn][linkedin-shield]][linkedin-url]
