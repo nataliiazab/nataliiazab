@@ -14,8 +14,6 @@
 <p>🎓 Completed a 12-month full stack development programme at CodeYourFuture </p>
 
 
-🌐 [My Portfolio](https://nataliiazab-portfolio.netlify.app)
-
 ## Tech Stack
 
 <table align="center">
