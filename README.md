@@ -23,6 +23,10 @@
       JavaScript
     </td>
     <td align="center">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" title="TypeScript" height="40" /><br />
+      TypeScript
+    </td>
+    <td align="center">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React.js" title="React.js" height="40" /><br />
       React.js
     </td>
@@ -39,27 +43,16 @@
       CSS
     </td>
     <td align="center">
+      <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" alt="MUI" title="MUI" height="40" /><br />
+      MUI
+    </td>
+    <td align="center">
       <img src="https://simpleicons.org/icons/tailwindcss.svg" alt="Tailwind" title="Tailwind" height="40" /><br />
       Tailwind
     </td>
-<td align="center">
-  <img src="https://img.icons8.com/color/48/000000/sql.png" alt="SQL" title="SQL" height="40" /><br />
-  SQL
-</td>
-  </tr>
-</table>
-
-## Basic Knowledge
-
-<table align="center">
-  <tr>
-      <td align="center">
+     <td align="center">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" title="Node.js" height="40" /><br />
       Node.js
-    </td>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" title="TypeScript" height="40" /><br />
-      TypeScript
     </td>
     <td align="center">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg" alt="Jest" title="Jest" height="40" /><br />
@@ -69,10 +62,13 @@
       <img src="https://github.com/devicons/devicon/blob/master/icons/supabase/supabase-original.svg" alt="Supabase" title="Supabase" height="40" /><br />
       Supabase
     </td>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" title="Docker" height="40" /><br />
-      Docker
+     <td align="center">
+      <img src="https://github.com/devicons/devicon/blob/master/icons/prisma/prisma-original.svg" alt="Prisma" title="Prisma" height="40" /><br />
+      Prisma
     </td>
+   
+
+</td>
   </tr>
 </table>
 
