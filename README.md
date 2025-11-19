@@ -1,10 +1,5 @@
 # Hey there👋
 
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/nataliiazab/count.svg" />
-</p>
-
 ## About Me
 
 <p>💼 Currently, work as a Software Engineer at Bauer Media Outdoor</p>
