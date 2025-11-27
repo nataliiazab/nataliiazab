@@ -4,8 +4,6 @@
 
 <p>💼 Currently, work as a Software Engineer at Bauer Media Outdoor</p>
 
-<p>💻 Volunteer as a Full Stack Developer at Trafalgar Girls to build <a href="https://github.com/enBloc-org/kindly">Kindly</a> </p>
-
 <p>🎓 Completed a 12-month full-stack development programme at CodeYourFuture </p>
 
 
