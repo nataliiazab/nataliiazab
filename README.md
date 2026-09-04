@@ -4,8 +4,6 @@
 
 <p>💼 Currently, work as a Software Engineer at Bauer Media Outdoor</p>
 
-<p>🎓 Completed a 12-month full-stack development programme at CodeYourFuture </p>
-
 
 ## Tech Stack
 
